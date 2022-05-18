@@ -1,0 +1,67 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Graduate Education in Research Ethics for Scientists and Engineers: Moral Delibaration Workshop</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>769069e7-d878-40ef-92c0-c40dc6236aa6</md:uuid>
+</metadata>
+  <content>
+
+<section id="intro">
+<title>Module Introduction</title>
+    <para id="element-521">Graduate students will participate in a follow up workshop during their second semester of study that will be designed to add skills of ethical evaluation to those of ethical awareness.  This workshop will advance on the first workshop (Graduate Awareness Workshop) through presentations of a taxonomy of ethical issues in research called the "Double Axiological Axis" and through a framework that integrates teleology and deontology to enable students to introduce ethical theory and principle into moral deliberation.  Students will practice the skills presupposed by these presented materials by deliberating on a case in research ethics that has been chosen because it presents a conflict between moral considerations.  Students will be guided through the process of identifying the conflicting moral elements and designing ethically acceptable courses of action.  This workshop will target the skill of ethical evaluation and be assessed in terms of the success of the participants in resolving the conflict posed by the case over which they deliberate.  Workshop objectives, outcomes, and activities are summarized below.</para><para id="element-821"><title>Module Under Construction</title>
+This workshop module is still under development.  It is being published in the Connexions Content Commons to allow students participating in the workshops and interested faculty to react to its different parts and to participate in its continued development. </para><table id="element-550" summary="">
+<title>Moral Deliberation Workshop</title>
+<tgroup cols="2"><tbody>
+		<row>
+			<entry><emphasis>Objectives</emphasis></entry>
+			<entry><emphasis>Activities</emphasis></entry>
+		</row>
+		<row>
+			<entry>Systematic introduction to a taxonomy of key issues in research ethics</entry>
+			<entry>Presentation: Ethical Issues in Research (Double Axiological Axis)</entry>
+		</row>
+		<row>
+			<entry>Introduction of ethical theory and principle to aid in moral reasoning and moral judgment in research ethics</entry>
+			<entry>Presentation: Teleological and Deontological moments of ethical reflection in research ethics</entry>
+		</row>
+		<row>
+			<entry>Students learn to arbitrate between conflicting moral and practical considerations</entry>
+			<entry>Reflection Exercise: Students are presented with a case raising a moral conflict, such as a conflict between duties or rights.  Students then use guidelines and reflection to resolve the conflict</entry>
+		</row>
+	</tbody>
+
+</tgroup>
+</table>
+</section>
+
+
+<section id="act">
+<title>Module Activities</title>
+<list id="element-777" list-type="bulleted"><item>Presentation on "Ethical Issues in Research."  These issues will be presented in the form of a taxonomy based on a "double axiological axis."  The first axis explores issues related to the pursuit of truth while the second looks at how research stands in relation to social responsibility.</item>
+	<item>A presentation on ethical theory and principle (derived from Teleological and Deontological theoretical standpoints) will help students develop their moral reasoning and judgment in the context of research ethics.</item>
+	<item>Student will examine a case that in which basic moral elements are in conflict.  This will provide them with practice in using the taxonomy of issues and the framework based on teleology and deontology.</item></list>
+</section>
+
+<section id="obj">
+<title>Module Objectives</title>
+<para id="element-189">Objectives This workshop series is based on four skills for ethical empowerment that have been detailed in Cruz/Frey 2003: ethical awareness, ethical evaluation, ethical integration and ethical prevention. This list of moral skills is by no means exhaustive or exclusive. For example, it does not cover moral imagination, moral creativity, becoming a member of a professional community, or perseverance. Readers are encouraged to consult the moral development skills that are available in Kohlberg, Rest, Huff/Frey, and the widely accepted Hastings Center List. Bibliographical references below will provide ample resources that different institutions or groups can use to build a list of skills of moral development to fit their needs and resources. </para><list id="element-793" list-type="bulleted"><item>Ethical Awareness consists of the student's ability to select and frame moral issues and problems that arise in ordinary, day-to-day research practice.</item>
+	<item>Ethical evaluation skills allow students to bring ethical principles, concepts, theories, and values to bear on the problems they identify in research scenarios and use these to accomplish moral reasoning and judgment. </item>
+	<item>Ethical integration skills give ethical principles, concepts, theories, and values a constitutive role in creating and designing solutions to moral problems and generating decision alternative sthat integrate moral (and non-moral) values. </item>
+<item>Ethical prevention skills are employed to identify value conflicts inherent in research projects and the socio-technical systems into which they are integrated. Prevention skills more from early identification of these conflicts to the development of counter-measures that prevent them from developing into full-blown moral problems or dilemmas.</item> 
+ </list><para id="element-809">These objectives form a series in which the more complex skills presuppose and build upon the simpler ones: ethical evaluation takes place when awareness skills are mastered; integraiton presupposes evaluation and awareness; prevention builds upon the mastery of the three more basic skills. To reflect this serial relation of ethics objectives, the graduate students workshops--each of which targets a particular skill set--are sequenced so that subsequent workshops build upon the skills mastered in earlier ones. 
+Those who adopt this module are cautioned against taking this idea of sequential development to its extremes. The sequence is not uni-directional; students can and should work on maintaining awareness even after they have practiced prevention. More than one skill can be pursued at a time. Students could take the workshops out of sequence and still benefit. But ordering these workshops sequentially and generally requiring students to move from awareness, through evaluation and integration, to integration makes enough sense to test this model.
+ </para>
+</section>
+
+<section id="bib">
+<title>References</title>
+
+<list id="element-312" list-type="bulleted"><item>Kohlberg, Lawrence. 1981. The Philosophy of Moral Development: Essays on Moral Development, vol.1. San Francisco: Harper and Row. </item>
+<item>Pritchard, Michael S. 1996. Reasonable Children: Moral Education and Moral Learning. Lawrence, KS: University of Kansas Press: 11. </item>
+<item>Rest, James, Narvaez, Darcia, Bebeau, Muriel, and Thoma, Stephen. 1999. Postconventional Moral Thinking: a Neo-Kohlbergian Approach. Mahwah, NJ: Lawrence Erlbaum Associates, Inc. </item>
+<item>Huff, Chuck and Frey, William. 2005. "Moral Pedagogy and Practical Ethics" in Science and Engineering Ethics 11(3): 394-397. </item>
+<item>Cruz, Jose and Frey, William. 2003. "An Effective Strategy for Integrating Ethics Across the Curriculum in Engineering: An ABET 2000 Challenge" in Science and Engineering Ethics 9(4): 546-547. </item>
+ </list> 
+
+</section>  
+  </content>
+  
+</document>

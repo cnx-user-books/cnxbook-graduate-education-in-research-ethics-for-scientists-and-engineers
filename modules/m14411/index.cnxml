@@ -1,0 +1,73 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Graduate Education in Research Ethics: Case Analysis Workshop</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>837d89c3-b7ba-4abc-a7c4-821670a0ad09</md:uuid>
+</metadata>
+  <content>
+
+<section id="intro">
+<title>Module Introduction</title>
+
+    <para id="element-655"> 
+In a third workshop, you will work with the moral objective of ethical integration which builds upon ethical awareness and ethical evaluation.  Two widely used decision-making frameworks will be presented.  Thus, using a case presented by a faculty mentor, students will practice the framework by bringing the case to a resolution.  You will be provided with decision alternatives that respond generically to ethical problems (gather information, negotiate, oppose, exit, etc.), rank these generic solutions, and then design and justify a decision of your own.  This workshop allows you to continue practicing the resolution of moral conflicts (skills developed in the second workshop) and, in addition, to work on integrating moral considerations with practical ones.  The case analyses that you develop in this workshop will serve as a preliminary draft.  Then you will form work groups that will continue to refine their provisional decisions, analyses, and justifications after the workshop.  This will lead to the next activity where your group, along with others, will prepare a poster presentation on your case analysis to be presented in a capstond activity called, the "Graduate Research Ethics Banquet."   </para>
+
+<table id="element-970" summary="">
+<title>Case Analysis Workshop</title>
+<tgroup cols="2"><tbody>
+		<row>
+			<entry><emphasis>Objectives</emphasis></entry>
+			<entry><emphasis>Activities</emphasis></entry>
+		</row>
+		<row>
+			<entry>Students learn to integrate ethical considerations in to the causistic model of case analysis</entry>
+			<entry>Presentation: Decision-making framework in research ethics based on casuistic model</entry>
+		</row>
+		<row>
+			<entry>Students learn to integrate ethical considerations into a rational decision-making framework common in the business environment</entry>
+			<entry>Presentation: Decision-making framework in research ethics based on rational decision model (sevel-step model)</entry>
+		</row>
+		<row>
+			<entry>Students learn to integrate ethical considerations (principles, concepts, theories, and values) into day-to-day decision-making in research activities</entry>
+			<entry>Reflection Exercise: Students are presented with scenarios that raise an ethical problem and create a decision point.  Students then rank alternative solutions, choose an alternative, and justify their choice</entry>
+		</row>
+	</tbody>
+
+</tgroup>
+</table>
+
+</section>
+
+<section id="act">
+<title>Module Activities</title>
+
+<list id="element-791" list-type="bulleted"><item>During a presentation, you will learn about a decision-making framework based on the casuistic model.</item>
+	<item>Those who work in a business context make use of a decision-making procedure based on a rational decision model.  This framework breaks the decision procedure down into seven steps: (1) identifying the relevant facts, (2) stating the problem, (3) identifying the stakeholders and their stakes, (4) brainstorming solutions, (5) evaluating solution alternatives according to their ethics, (6) making a decision, and (7) identifying preventive measures to stop the problem from reoccuring.</item>
+	<item>You will be assigned a decision point within case or scenario that raises an ethical problem.  Your job is to generate alternatives, rank them according to their ethics, make a choice, and then justify that choice using ethical considerations.</item>
+<item>You will be divided into work teams.  After the workshop, you will continue to refine your analysis and decision and prepare a poster that presents your final mature decision and justification.  This will be presented in a subsequent activity, the "Graduate Research Ethics Banquet."</item>
+</list>
+
+</section>
+
+<section id="modobj">
+<title>Module Objectives</title>
+
+<para id="element-624">This workshop series is based on four skills for ethical empowerment that have been detailed in Cruz/Frey 2003: ethical awareness, ethical evaluation, ethical integration and ethical prevention. This list of moral skills is by no means exhaustive or exclusive. For example, it does not cover moral imagination, moral creativity, becoming a member of a professional community, or perseverance. Readers are encouraged to consult the moral development skills that are available in Kohlberg, Rest, Huff/Frey, and the widely accepted Hastings Center List. Bibliographical references below will provide ample resources that different institutions or groups can use to build a list of skills of moral development to fit their needs and resources.</para><list id="element-18" list-type="bulleted"><item>Ethical Awareness consists of the student's ability to select and frame moral issues and problems that arise in ordinary, day-to-day research practice. 
+Ethical evaluation skills allow students to bring ethical principles, concepts, theories, and values to bear on the problems they identify in research scenarios and use these to accomplish moral reasoning and judgment.</item>
+<item>Ethical integration skills give ethical principles, concepts, theories, and values a constitutive role in creating and designing solutions to moral problems and generating decision alternative sthat integrate moral (and non-moral) values.</item>
+<item>Ethical prevention skills are employed to identify value conflicts inherent in research projects and the socio-technical systems into which they are integrated. Prevention skills more from early identification of these conflicts to the development of counter-measures that prevent them from developing into full-blown moral problems or dilemmas.</item>
+</list><para id="element-928">These objectives form a series in which the more complex skills presuppose and build upon the simpler ones: ethical evaluation takes place when awareness skills are mastered; integraiton presupposes evaluation and awareness; prevention builds upon the mastery of the three more basic skills. To reflect this serial relation of ethics objectives, the graduate students workshops--each of which targets a particular skill set--are sequenced so that subsequent workshops build upon the skills mastered in earlier ones. Those who adopt this module are cautioned against taking this idea of sequential development to its extremes. The sequence is not uni-directional; students can and should work on maintaining awareness even after they have practiced prevention. More than one skill can be pursued at a time. Students could take the workshops out of sequence and still benefit. But ordering these workshops sequentially and generally requiring students to move from awareness, through evaluation and integration, to integration makes enough sense to test this model.</para>
+</section>
+
+<section id="ref">
+<title>References</title>
+
+<list id="element-503" list-type="bulleted"><item>Kohlberg, Lawrence. 1981. The Philosophy of Moral Development: Essays on Moral Development, vol.1. San Francisco: Harper and Row.</item>
+	<item>Pritchard, Michael S. 1996. Reasonable Children: Moral Education and Moral Learning. Lawrence, KS: University of Kansas Press: 11.</item>
+	<item>Rest, James, Narvaez, Darcia, Bebeau, Muriel, and Thoma, Stephen. 1999. Postconventional Moral Thinking: a Neo-Kohlbergian Approach. Mahwah, NJ: Lawrence Erlbaum Associates, Inc.</item>
+	<item>Huff, Chuck and Frey, William. 2005. "Moral Pedagogy and Practical Ethics" in Science and Engineering Ethics 11(3): 394-397. </item>
+	<item>Cruz, Jose and Frey, William. 2003. "An Effective Strategy for Integrating Ethics Across the Curriculum in Engineering: An ABET 2000 Challenge" in Science and Engineering Ethics 9(4): 546-547.</item></list>
+
+</section>
+   
+  </content>
+  
+</document>
